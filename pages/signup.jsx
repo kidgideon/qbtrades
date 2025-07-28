@@ -137,7 +137,7 @@ const Signup = () => {
           </div>
 
           <button className="signupBtn" type="submit">
-            <i className="fa-solid fa-user-plus"></i> Create Account
+            <i className="fa-solid fa-user-plus"></i> create portfolio
           </button>
 
           <div className="orDivider">
@@ -151,7 +151,7 @@ const Signup = () => {
           </button>
 
           <div className="loginRow">
-            Already have an account? <Link to="/login">Sign in</Link>
+            Already have an portfolio? <Link to="/login">access portfolio</Link>
           </div>
         </form>
       </div>

@@ -84,7 +84,7 @@ const NavBar = () => {
                             </Link>
                         ))}
                         <Link to="/signup" onClick={() => setMenuOpen(false)}>
-                            Sign in
+                            access portfolio
                         </Link>
                         <button
                             className="standardBtn"
