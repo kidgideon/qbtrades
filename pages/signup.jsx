@@ -151,7 +151,7 @@ const Signup = () => {
           </button>
 
           <div className="loginRow">
-            Already have an portfolio? <Link to="/login">access portfolio</Link>
+            Already have a portfolio? <Link to="/login">access portfolio</Link>
           </div>
         </form>
       </div>

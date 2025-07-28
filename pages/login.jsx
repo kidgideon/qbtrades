@@ -72,7 +72,7 @@ const Login = () => {
           </div>
 
           <button className="authpage-loginBtn" type="submit">
-            <i className="fa-solid fa-right-to-bracket"></i> Sign In
+            <i className="fa-solid fa-right-to-bracket"></i> access portfolio
           </button>
 
           <div className="authpage-orDivider">
@@ -90,7 +90,7 @@ const Login = () => {
           </button>
 
           <div className="authpage-loginRow">
-            New here? <Link to="/signup">Create an account</Link>
+            New here? <Link to="/signup">Create a portfolio</Link>
           </div>
         </form>
       </div>
