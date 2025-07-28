@@ -83,7 +83,7 @@
   height: 42px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid #b374ff;
+  border: 2px solid #dd5339 ;
 }
 .app-feed-header h4 {
   margin: 0;
@@ -103,7 +103,7 @@
   margin-bottom: 12px;
 }
 .app-feed-read-more {
-  color: #b374ff;
+  color: #dd5339 ;
   font-weight: 500;
   cursor: pointer;
   margin-left: 4px;
@@ -139,7 +139,7 @@
   transition: all 0.2s ease;
 }
 .app-feed-actions button:hover {
-  color: #b374ff;
+  color: #dd5339 ;
 }
 
 .app-feed-icon svg {
@@ -148,10 +148,10 @@
   transition: all 0.2s ease;
 }
 .app-feed-like-btn.liked {
-  color: #b374ff;
+  color: #dd5339 ;
 }
 .app-feed-like-btn.liked svg {
-  fill: #b374ff;
+  fill: #dd5339 ;
 }
 
 .app-feed-skeleton {

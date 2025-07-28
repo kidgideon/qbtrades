@@ -35,7 +35,7 @@ this is the base color for this project #dd5339 */
 
 .add-payment-channels i {
     font-size: 50px;
-    color: #B374FF;
+    color: #dd5339 ;
     cursor: pointer;
 }
 
@@ -115,7 +115,7 @@ this is the base color for this project #dd5339 */
 }
 
 .payment-requests h2 {
-      color: #B374FF;
+      color: #dd5339 ;
 }
 
 /* Filter buttons */

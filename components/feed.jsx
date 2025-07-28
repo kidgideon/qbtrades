@@ -164,7 +164,7 @@ const Feed = () => {
                       <span className="app-feed-icon">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
-                          fill={isLiked ? "#B374FF" : "none"}
+                          fill={isLiked ? "#dd5339 " : "none"}
                           viewBox="0 0 24 24"
                           strokeWidth={1.5}
                           stroke="currentColor"

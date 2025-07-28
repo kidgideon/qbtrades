@@ -24,12 +24,12 @@
 
 .sliding-stocks-component::before {
   left: 0;
-  background: linear-gradient(to right, black, rgba(31, 11, 58, 0));
+  background: linear-gradient(to right, black, black);
 }
 
 .sliding-stocks-component::after {
   right: 0;
-  background: linear-gradient(to left, black, rgba(31, 11, 58, 0));
+  background: linear-gradient(to left, black, black);
 }
 
 .sliding-track {
@@ -61,7 +61,7 @@
 .stock-symbol {
   font-weight: 600;
   margin-right: 6px;
-  color: #B374FF;
+  color: #dd5339 ;
 }
 
 .stock-price {
