@@ -1,7 +1,7 @@
 .authpage-interface {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(120deg, #f5f1fa 60%, #a23cf4 100%);
+    background: linear-gradient(120deg, #f5f1fa 60%, #dd5339 100%);
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -41,12 +41,12 @@
     font-size: 1rem;
     outline: none;
     background: #faf8fd;
-    color: #1f0b3a;
+    color: black;
     transition: border 0.2s;
 }
 
 .authpage-formInputs input:focus {
-    border: 1.5px solid #a23cf4;
+    border: 1.5px solid #dd5339;
     background: #fff;
 }
 
@@ -61,14 +61,14 @@
     top: 50%;
     transform: translateY(-50%);
     cursor: pointer;
-    color: #a23cf4;
+    color: #dd5339;
     font-size: 1.1rem;
     opacity: 0.8;
     transition: color 0.2s;
 }
 
 .authpage-togglePassword:hover {
-    color: #1f0b3a;
+    color: black;
     opacity: 1;
 }
 
@@ -78,20 +78,20 @@
 }
 
 .authpage-forgotLink {
-    color: #a23cf4;
+    color: #dd5339;
     font-size: 0.98rem;
     text-decoration: none;
     transition: color 0.2s;
 }
 
 .authpage-forgotLink:hover {
-    color: #1f0b3a;
+    color: black;
     text-decoration: underline;
 }
 
 .authpage-loginBtn {
     width: 100%;
-    background: linear-gradient(90deg, #a23cf4 60%, #1f0b3a 100%);
+    background: linear-gradient(90deg, #dd5339 60%, black 100%);
     color: #fff;
     border: none;
     border-radius: 12px;
@@ -108,7 +108,7 @@
 }
 
 .authpage-loginBtn:hover {
-    background: linear-gradient(90deg, #1f0b3a 60%, #a23cf4 100%);
+    background: linear-gradient(90deg, black 60%, #dd5339 100%);
 }
 
 .authpage-orDivider {
@@ -126,7 +126,7 @@
 
 .authpage-orDivider p {
     margin: 0;
-    color: #a23cf4;
+    color: #dd5339;
     font-weight: 500;
     font-size: 1rem;
 }
@@ -134,8 +134,8 @@
 .authpage-googleBtn {
     width: 100%;
     background: #fff;
-    color: #1f0b3a;
-    border: 1.5px solid #a23cf4;
+    color: black;
+    border: 1.5px solid #dd5339;
     border-radius: 12px;
     padding: 12px 0;
     font-size: 1.05rem;
@@ -149,7 +149,7 @@
 }
 
 .authpage-googleBtn:hover {
-    background: #a23cf4;
+    background: #dd5339;
     color: #fff;
 }
 
@@ -157,11 +157,11 @@
     margin-top: 18px;
     text-align: center;
     font-size: 1rem;
-    color: #1f0b3a;
+    color: black;
 }
 
 .authpage-loginRow a {
-    color: #a23cf4;
+    color: #dd5339;
     text-decoration: underline;
     margin-left: 4px;
 }

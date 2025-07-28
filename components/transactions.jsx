@@ -38,7 +38,8 @@ const Transactions = () => {
   return (
     <div className="adminPaymentInterface">
       <div className="request-table">
-        <h2 style={{ color: "#9e5fff" }}>
+        <h2 style={{ color: "#dd5339" }}>
+          
           Transaction History
         </h2>
         <table>

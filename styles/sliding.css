@@ -3,7 +3,7 @@
   width: 100%;
   height: 50px;
   overflow: hidden;
-  background-color: #1f0b3a;
+  background-color: black;
   padding: 10px 0;
   display: flex;
   justify-content: center;
@@ -24,12 +24,12 @@
 
 .sliding-stocks-component::before {
   left: 0;
-  background: linear-gradient(to right, #1f0b3a, rgba(31, 11, 58, 0));
+  background: linear-gradient(to right, black, rgba(31, 11, 58, 0));
 }
 
 .sliding-stocks-component::after {
   right: 0;
-  background: linear-gradient(to left, #1f0b3a, rgba(31, 11, 58, 0));
+  background: linear-gradient(to left, black, rgba(31, 11, 58, 0));
 }
 
 .sliding-track {

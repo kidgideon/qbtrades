@@ -110,7 +110,7 @@
     top: 0;
     left: 0;
     bottom: 0;
-    background-color: #1f0b3a;
+    background-color: black;
     color: white;
     padding-top: 5px;
     padding-bottom: 20px;
@@ -154,7 +154,7 @@
 .close svg, .expand svg {
     width: 30px;
     height: 30px;
-    color: #a23cf4;
+    color: #dd5339;
 }
 
 /* Profile section */
@@ -172,7 +172,7 @@
     width: 54px;
     height: 54px;
     border-radius: 50%;
-    border: 2px solid #a23cf4;
+    border: 2px solid #dd5339;
     object-fit: cover;
 }
 
@@ -212,7 +212,7 @@
 }
 .nav-item:hover .item-icon svg,
 .nav-item.hovered .item-icon svg {
-    color: #a23cf4;
+    color: #dd5339;
 }
 .item-name {
     margin-left: 18px;
@@ -245,7 +245,7 @@
     top: 50%;
     transform: translateY(-50%) scale(0.95);
     background: #fff;
-    color: #1f0b3a;
+    color: black;
     padding: 6px 16px;
     border-radius: 6px;
     font-size: 1rem;

@@ -22,7 +22,7 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.4 }}
             >
               Invest Smarter with{' '}
-              <span className={styles.gradientText}>Gainovia</span>
+              <span className={styles.gradientText}>Qbtrades</span>
             </motion.h1>
             
             <motion.p 
@@ -46,22 +46,13 @@ const Hero = () => {
               <motion.a 
                 href="/signup" 
                 className={`${styles.btn} ${styles.btnPrimary} ${styles.btnLg}`}
-                whileHover={{ scale: 1.05, boxShadow: "0 10px 25px rgba(162, 60, 244, 0.3)" }}
+                whileHover={{ scale: 1.05, boxShadow: "0 10px 25px black" }}
                 whileTap={{ scale: 0.95 }}
               >
                 <i className="fas fa-rocket"></i>
-                Get Started Free
+                Create Portfolio
               </motion.a>
               
-              <motion.a 
-                href="#" 
-                className={`${styles.btn} ${styles.btnGhost} ${styles.btnLg}`}
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                <i className="fas fa-play"></i>
-                Watch Demo
-              </motion.a>
             </motion.div>
 
             {/* Enhanced Stats */}

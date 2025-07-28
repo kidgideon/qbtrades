@@ -14,7 +14,7 @@
     right: 0;
     left: 0;
     height: 70px;
-    background-color: #1f0b3a;
+    background-color: black;
     display: flex;
     justify-content: space-between;
     align-content: center;
@@ -29,7 +29,7 @@
 }
 
 .standardBtn {
-    background-color: #a23cf4;
+    background-color:  #dd5339;
     color: white;
     padding: 10px 30px;
     border: none;
@@ -40,7 +40,7 @@
 }
 
 .standardBtn:hover {
-    background-color: #bb67ff;
+    background-color: #dd5339;
 }
 
 .navStart{
@@ -86,7 +86,7 @@
 /* Footer */
 .footer-modern {
     width: 100%;
-    background: linear-gradient(90deg, #1f0b3a 60%, #a23cf4 100%);
+    background: linear-gradient(90deg, black 60%, #dd5339 100%);
     color: #fff;
     padding: 40px 0 10px 0;
     font-size: 1rem;
@@ -163,7 +163,7 @@
     transition: color 0.2s;
 }
 .footer-social a:hover {
-    color: #a23cf4;
+    color: #dd5339;
 }
 .footer-modern-bottom {
     width: 100%;
@@ -207,8 +207,8 @@
     width: 80vw;
     max-width: 320px;
     background: #fff;
-    color: #1f0b3a;
-    box-shadow: -2px 0 24px 0 rgba(162,60,244,0.08);
+    color: black;
+    box-shadow: -2px 0 24px 0 rgba(25, 0, 46, 0.08);
     padding: 16px 24px 24px 32px;
     display: flex;
     flex-direction: column;
@@ -219,13 +219,13 @@
 }
 
 .mobileMenuLinks a {
-    color: #a23cf4;
+    color: #dd5339;
     font-size: 1.15rem;
     text-decoration: none;
     font-weight: 500;
 }
 .mobileMenuLinks a:hover {
-    color: #1f0b3a;
+    color: black;
 }
 .mobileMenuLinks .standardBtn {
     margin-top: 10px;
@@ -237,7 +237,7 @@
 .closeMenuBtn {
     background: none;
     border: none;
-    color: #a23cf4;
+    color: #dd5339;
     font-size: 2.2rem;
     margin-left: auto;
     padding: 18px 18px 0 0;

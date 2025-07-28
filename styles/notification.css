@@ -4,7 +4,7 @@
   right: 30px;
   width: 400px;
   height: 500px;
-  background-color: #1f0b3a;
+  background-color: black;
   z-index: 1000;
   display: flex;
   flex-direction: column;
@@ -65,7 +65,7 @@
   padding: 12px 10px;
   border-radius: 12px;
   text-decoration: none;
-  background-color: #a23cf4;
+  background-color: #dd5339;
   transition: background 0.2s ease;
 }
 .notification:hover {

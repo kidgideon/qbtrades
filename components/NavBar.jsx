@@ -31,7 +31,7 @@ const NavBar = () => {
             <div className="navStart">
                 <div className="iconSection" style={{ cursor: "pointer" }} onClick={() => navigate("/")}>
                     <i style={{ marginLeft: "30px" }} className="fa-solid fa-bolt icon"></i>
-                    <h3 className="iconText">Gainovia</h3>
+                    <h3 className="iconText">Qbtrades</h3>
                 </div>
             </div>
 
@@ -50,7 +50,7 @@ const NavBar = () => {
                     className="standardBtn desktopOnly"
                     onClick={() => navigate("/signup")}
                 >
-                    Join now
+                    create portfolio
                 </button>
 
                 {/* Hamburger for mobile */}
@@ -93,7 +93,7 @@ const NavBar = () => {
                                 navigate("/signup");
                             }}
                         >
-                            Join now
+                            create portfolio
                         </button>
                     </div>
                 </div>

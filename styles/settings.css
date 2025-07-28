@@ -75,7 +75,7 @@
   margin-top: 24px;
 }
 .settings-btn {
-  background: #1f0b3a;
+  background: black;
   color: #fff;
   border: none;
   padding: 10px 28px;
@@ -97,7 +97,7 @@
   font-size: 1.2rem;
   font-weight: 600;
   margin-bottom: 16px;
-  color: #1f0b3a;
+  color: black;
 }
 
 .settings-image-upload {
@@ -126,7 +126,7 @@
 
 
 .settings-btn {
-  background: #1f0b3a;
+  background: black;
   color: #fff;
   border: none;
   padding: 10px 28px;

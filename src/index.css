@@ -1,4 +1,4 @@
-/* background #1f0b3a */
+/* background black */
 * {
   font-family: 'Montserrat', sans-serif;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 .iconText {
-    color: #a23cf4
+    color: #dd5339
 }
 
 a {
@@ -34,6 +34,6 @@ body {
   font-family: 'Inter', sans-serif;
   margin: 0;
   padding: 0;
-  color: #1f0b3a;
+  color: black;
   background-color: #fff;
 }
